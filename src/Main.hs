@@ -1,5 +1,4 @@
-{-# LANGUAGE NoMonomorphismRestriction #-}
-
+-- {-# LANGUAGE NoMonomorphismRestriction #-}
 {-@ LIQUID "--notermination"           @-}
 
 {-# LANGUAGE UnicodeSyntax #-}
